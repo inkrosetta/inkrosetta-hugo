@@ -1,0 +1,16 @@
+baseURL = 'http://example.org/'
+languageCode = 'zh-tw'
+title = '畫文好譯健康症狀網'
+theme = 'blank'
+defaultContentLanguage = 'zh-tw'
+
+[languages]
+    [languages.zh-tw]
+    weight = 1
+    [languages.en]
+    title = 'Symptoms Site'
+    weight = 2
+    [languages.jp]
+    title = '健康症狀網'
+    weight = 5
+
