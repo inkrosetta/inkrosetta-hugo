@@ -1,7 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'zh-tw'
 title = '畫文好譯健康症狀網'
-theme = 'blank'
 defaultContentLanguage = 'zh-tw'
 
 [languages]

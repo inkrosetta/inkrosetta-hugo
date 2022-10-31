@@ -1,0 +1,14 @@
+<aside>
+	<div>
+		<div>
+			<h3>分類</h3>
+		</div>
+		<div>
+			<ul>
+				{{ range .Sections }}
+                    {{ partial "sections.html" . }}
+				{{ end }}
+			</ul>
+		</div>
+	</div>
+</aside>
